@@ -10,7 +10,7 @@ Just a DEV interested in games and software development
 </p>
 
 --- 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Knowledge
   <img 
    align="left"
    alt="C#"
