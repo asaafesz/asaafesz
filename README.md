@@ -11,14 +11,10 @@ Just a DEV interested in games and software development
 
 --- 
 ### 🧠 Knowledge
-  <img 
-   align="left"
-   alt="C#"
-   title="C#"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-   />
-
+<img
+  src="https://raw.githubusercontent.com/asaafesz/asaafesz/53c756db7545807d2f10bc070ee6297b6fb32630/ecb9c2d3d68104257d36ef064f2cc1bc.gif"
+  alt="Imagem"
+  width="300"
+>
 
   
